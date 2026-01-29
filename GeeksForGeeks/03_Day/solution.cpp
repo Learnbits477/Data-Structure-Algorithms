@@ -27,24 +27,12 @@ class Solution {
         }
 
         // 3. Move the new first half (originally second half) to the back
-        // The queue now has [Second Half, Reverse First Half]
-        // We want to move Second Half to the back to get [Reverse First Half, Second Half]
         for (int i = 0; i < half; ++i) {
             q.push(q.front());
             q.pop();
         }
 
         // 4. Push first half (which is now reversed at the front) to stack again
-        // Queue: [Reverse First Half, Second Half] -> Stack gets Reverse First Half -> Stack has First Half in correct order (Top is First Element)
-        // Wait, "Reverse First Half" was pushed. Stack will reverse it again.
-        // Let's trace carefully.
-        // Original: [1, 2, 3, 4]
-        // Step 1: Q=[3, 4], S=[1, 2] (Top 2)
-        // Step 2: Q=[3, 4, 2, 1]
-        // Step 3: Q=[2, 1, 3, 4]
-        // Step 4: Push [2, 1] to Stack. S=[2, 1] (Top 1). Q=[3, 4]
-        // See, now Stack top is 1 (Original First), and Queue front is 3 (Original First of Second Half).
-        // Correct.
         for (int i = 0; i < half; ++i) {
             s.push(q.front());
             q.pop();
@@ -93,3 +81,4 @@ int main() {
 
     return 0;
 }
+
