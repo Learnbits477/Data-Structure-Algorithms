@@ -154,14 +154,6 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             int found_idx = seg.find_last(i + len, 0);
             if (found_idx != -1) {
-                // found_idx is 1-based index in the prefix array.
-                // The range is nums[i...found_idx-1].
-                // Length is found_idx - i.
-                // Wait, prefix_sum[k] is sum of [0...k].
-                // If seg value is 0 at index k, it means Diff(0, k) updated relative to i is 0?
-                // The user's code: len = max(len, found_idx - i);
-                // Yes, found_idx is 1-based index corresponding to nums index found_idx-1.
-                // So subarray is nums[i ... found_idx-1]. Length is found_idx - i.
                 len = std::max(len, found_idx - i);
             }
 
@@ -171,25 +163,6 @@ public:
                 next_pos = occurrences[nums[i]].front();
             }
 
-            // Remove nums[i] effect:
-            // subtract sgn(nums[i]) from range where nums[i] was the first occurrence.
-            // which is [i+1, next_pos - 1].
-            // But we add -sgn(nums[i]).
-            // Also indices passed to add are 1-based.
-            // i+1 is the new start of the window (1-based index corresponding to nums[i]).
-            // wait, next_pos is already 1-based index.
-            // seg.add inputs:
-            // i+1 (which is 1-based index of nums[i]) -- NO.
-            // "i" is 0-based index of element we are removing.
-            // The segment tree nodes correspond to prefix indices 1..N.
-            // Node k corresponds to prefix sum up to nums[k-1].
-            // We want to update prefixes that include the range where nums[i] was valid.
-            // These are prefixes ending at indices >= i+1.
-            // Specifically, for prefixes ending at p (where p >= i+1), they contain nums[i].
-            // We are effectively moving the left pointer past i.
-            // So for any R >= i, the distinct count of [i+1, R] might change.
-            // The distinct count decreases by 1 (or -1) for R in [i+1, next_pos-1]. Only until next occurrence.
-            // So range [i+1, next_pos-1] (1-based indices) is correct.
             if (i + 1 <= next_pos - 1) {
                  seg.add(i + 1, next_pos - 1, -sgn(nums[i]));
             }
@@ -216,3 +189,4 @@ int main() {
     
     return 0;
 }
+
