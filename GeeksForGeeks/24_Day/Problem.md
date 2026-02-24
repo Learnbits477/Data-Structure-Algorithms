@@ -1,0 +1,45 @@
+# Largest Number Formed from an Array
+
+**Difficulty:** Medium
+**Accuracy:** 37.82%
+**Submissions:** 204K+
+**Points:** 4
+
+## Problem Statement
+
+Given an array of integers `arr[]` representing non-negative integers, arrange them so that after concatenating all of them in order, it results in the **largest possible number**. Since the result may be very large, return it as a string.
+
+## Examples
+
+**Example 1:**
+
+```
+Input:  arr[] = [3, 30, 34, 5, 9]
+Output: 9534330
+Explanation: The arrangement [9, 5, 34, 3, 30] gives the largest value.
+```
+
+**Example 2:**
+
+```
+Input:  arr[] = [54, 546, 548, 60]
+Output: 6054854654
+Explanation: The arrangement [60, 548, 546, 54] gives the largest value.
+```
+
+**Example 3:**
+
+```
+Input:  arr[] = [3, 4, 6, 5, 9]
+Output: 96543
+Explanation: The arrangement [9, 6, 5, 4, 3] gives the largest value.
+```
+
+## Constraints
+
+- `1 ≤ arr.size() ≤ 10^5`
+- `0 ≤ arr[i] ≤ 10^5`
+
+## Source
+
+[GeeksForGeeks - Largest Number Formed from an Array](https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
