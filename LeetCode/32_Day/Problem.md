@@ -1,4 +1,4 @@
-# 1680. Concatenation of Consecutive Binary Numbers
+# [1680. Concatenation of Consecutive Binary Numbers ](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/?envType=daily-question&envId=2026-02-27)
 
 ## Problem Statement
 
@@ -28,3 +28,4 @@ Given an integer `n`, return the decimal value of the binary string formed by co
 **Constraints:**
 
 - `1 <= n <= 10^5`
+
