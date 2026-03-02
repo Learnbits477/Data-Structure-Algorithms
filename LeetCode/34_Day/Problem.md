@@ -1,4 +1,5 @@
-# 1536. Minimum Swaps to Arrange a Binary Grid
+#  # [1536. Minimum Swaps to Arrange a Binary Grid ](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/submissions/1935628222/?envType=daily-question&envId=2026-03-01)
+
 
 Given an `n x n` binary `grid`, in one step you can choose two adjacent rows of the grid and swap them.
 
@@ -26,3 +27,4 @@ Output: `0`
 - `n == grid.length == grid[i].length`
 - `1 <= n <= 200`
 - `grid[i][j]` is either `0` or `1`
+
