@@ -1,4 +1,4 @@
-# [3600 Maximize Spanning Tree Stability with Upgrades ](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/?envType=daily-question&envId=2026-03-06)
+# [3600. Maximize Spanning Tree Stability with Upgrades ](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/?envType=daily-question&envId=2026-03-06)
 
 ## Problem Statement
 
