@@ -1,4 +1,4 @@
-#[GeeksForGeeks - Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+# [GeeksForGeeks - Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
 **Difficulty:** Medium
 **Accuracy:** 38.43%
