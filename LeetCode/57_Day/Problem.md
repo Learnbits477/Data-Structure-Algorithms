@@ -1,4 +1,4 @@
-# 3546. Equal Sum Grid Partition I
+# [3546. Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/?envType=daily-question&envId=2026-03-24)
 
 ## Problem Description
 You are given an `m x n` matrix `grid` of positive integers. Your task is to determine if it is possible to make either one horizontal or one vertical cut on the grid such that:
