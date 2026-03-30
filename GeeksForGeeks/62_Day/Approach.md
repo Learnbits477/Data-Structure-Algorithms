@@ -1,4 +1,4 @@
-# Minimum Cost to Connect All Houses in a City - Approach
+# [Minimum Cost to Connect All Houses in a City - Approach] (https://www.geeksforgeeks.org/problems/minimum-cost-to-connect-all-houses-in-a-city/1)
 
 ## Problem Overview
 The problem asks for the minimum cost to connect all houses in a 2D plane. The cost between two houses is the Manhattan distance: `|xi - xj| + |yi - yj|`. We need to ensure all houses are connected with the minimum total cost.
