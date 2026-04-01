@@ -1,0 +1,25 @@
+# [Consecutive 1's not allowed](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)
+
+## Problem Description
+
+Given a positive integer `n`, count all possible distinct binary strings of length `n` such that there are no consecutive 1’s.
+
+### Examples
+
+**Input:** `n = 3`
+**Output:** `5`
+**Explanation:** 5 strings are ("000", "001", "010", "100", "101").
+
+**Input:** `n = 2`
+**Output:** `3`
+**Explanation:** 3 strings are ("00", "01", "10").
+
+**Input:** `n = 1`
+**Output:** `2`
+**Explanation:** 2 strings are ("0", "1").
+
+### Constraints
+
+- `1 ≤ n ≤ 44`
+- **Expected Time Complexity:** $O(n)$
+- **Expected Auxiliary Space:** $O(n)$ (Can be optimized to $O(1)$)
