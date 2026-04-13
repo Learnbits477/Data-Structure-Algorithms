@@ -1,0 +1,24 @@
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <climits>
+#include <algorithm>
+
+using namespace std;
+
+class Solution {
+public:
+    int getMinDistance(vector<int>& nums, int target, int start) {
+        int minDistance = INT_MAX;
+        int n = nums.size();
+        
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] == target) {
+                // Update the minimum distance whenever the target is found
+                minDistance = min(minDistance, abs(i - start));
+            }
+        }
+        
+        return minDistance;
+    }
+};
