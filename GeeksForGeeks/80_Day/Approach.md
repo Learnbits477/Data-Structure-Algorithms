@@ -52,9 +52,9 @@ Using a fixed-size array of 26 integers is more efficient than a Hash Map for lo
 
 ```mermaid
 flowchart TD
-    A([Start]) --> B[Initialize count[26] = 0]
-    B --> C[Pass 1: Count each char's freq]
-    C --> D[Pass 2: Count odd freq entries]
+    A([Start]) --> B["Initialize count[26] = 0"]
+    B --> C["Pass 1: Count each char's freq"]
+    C --> D["Pass 2: Count odd freq entries"]
     D --> E{Odd Count ≤ 1?}
     E -- Yes --> F([Return true ✅])
     E -- No  --> G([Return false ❌])
