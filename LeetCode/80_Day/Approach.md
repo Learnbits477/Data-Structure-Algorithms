@@ -50,14 +50,14 @@ To find the **minimum distance**, we only care about the **closest** preceding i
 
 ```mermaid
 flowchart TD
-    A([Start]) --> B[Initialize minDistance = ∞\nMap lastSeenRev = {}]
-    B --> C[Loop j from 0 to n-1]
-    C --> D{nums[j] in map?}
+    A([Start]) --> B["Initialize minDistance = ∞<br/>Map lastSeenRev = {}"]
+    B --> C["Loop j from 0 to n-1"]
+    C --> D{"nums[j] in map?"}
     D -- Yes --> E["minDistance = min(minDistance, j - map[nums[j]])"]
-    D -- No --> F[rev = reverse(nums[j])]
+    D -- No --> F["rev = reverse(nums[j])"]
     E --> F
     F --> G["map[rev] = j"]
-    G --> H{More elements?}
+    G --> H{"More elements?"}
     H -- Yes --> C
     H -- No --> I["minDistance == ∞ ? return -1 : minDistance"]
 ```
