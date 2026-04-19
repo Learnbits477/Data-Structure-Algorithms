@@ -26,7 +26,7 @@ This monotonic property allows for a highly efficient **Two-Pointer** approach.
 ---
 
 ## 📊 Visual Representation
-
+```mermaid
 flowchart LR
     Start([Start]) --> Init["i = 0, j = 0, maxDist = 0"]
     Init --> Loop{"i < Len1 AND j < Len2"}
