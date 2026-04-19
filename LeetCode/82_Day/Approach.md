@@ -26,6 +26,7 @@ This monotonic property allows for a highly efficient **Two-Pointer** approach.
 ---
 
 ## 📊 Visual Representation
+
 ```mermaid
 flowchart LR
     Start([Start]) --> Init["i = 0, j = 0, maxDist = 0"]
@@ -33,48 +34,9 @@ flowchart LR
     Loop -- No --> End([Return maxDist])
     Loop -- Yes --> Compare{"nums1[i] <= nums2[j]"}
     Compare -- Yes --> Valid{"i <= j"}
-    Valid -- Yes --> Update["maxDist = max"]
+    Valid -- Yes --> Update["maxDist = max(maxDist, j - i)"]
     Update --> IncJ["j++"]
     Valid -- No --> IncJ
     Compare -- No --> IncI["i++"]
     IncJ --> Loop
     IncI --> Loop
-
----
-
-## ⏱️ Complexity Analysis
-
-| Type | Complexity | Explanation |
-| :--- | :--- | :--- |
-| **Time** | $O(N + M)$ | Each pointer `i` and `j` moves from start to end at most once. |
-| **Space** | $O(1)$ | No additional data structures used. |
-
----
-
-## 💻 Implementation snippet
-
-```cpp
-int maxDistance(vector<int>& nums1, vector<int>& nums2) {
-    int i = 0, j = 0, res = 0;
-    while (i < nums1.size() && j < nums2.size()) {
-        if (nums1[i] <= nums2[j]) {
-            res = max(res, j - i);
-            j++;
-        } else {
-            i++;
-        }
-    }
-    return res;
-}
-```
-
----
-
-## 🌟 Key Takeaways
-- The **non-increasing** property is crucial. It ensures that if a value in `nums2` is smaller than a value in `nums1`, moving `j` forward will only make it smaller.
-- The two-pointer approach is more efficient than binary search ($O(N \log M)$) or brute force ($O(N \cdot M)$).
-
----
-**Source Link:** [LeetCode - Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)
-
----
