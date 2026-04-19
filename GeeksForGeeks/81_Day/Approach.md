@@ -19,28 +19,20 @@ To solve this problem efficiently, we need to understand the effect of a flip on
 
 To maximize the total ones, we simply need to maximize the **Net Change** $(Z - O)$.
 
----
+---     
 
 ## 🛠️ Logic Flow
 
 ```mermaid
-graph TD
-    A[Start] --> B[Initialize total_ones = 0, max_so_far = 0, current_sum = 0]
-    B --> C{Iterate through array}
-    C -->|If 1| D[total_ones++]
-    C -->|Map| E[val = arr[i] == 0 ? 1 : -1]
-    E --> F[current_sum += val]
-    F --> G{current_sum < 0?}
-    G -->|Yes| H[current_sum = 0]
-    G -->|No| I[Continue]
-    H --> J{"current_sum > max_so_far?"}
-    I --> J
-    J -->|Yes| K[max_so_far = current_sum]
-    J -->|No| L[Next Element]
-    K --> L
-    L --> C
-    C -->|Finished| M[Result = total_ones + max_so_far]
-    M --> N[End]
+flowchart LR
+    Start(["Start"]) --> Init["Count 1s & Map (0➔+1, 1➔-1)"]
+    Init --> Kadane["Find Max Subarray Sum (Gain)"]
+    Kadane --> Final["Result = Total 1s + Max Gain"]
+    Final --> End(["End"])
+    
+    style Start fill:#f9f,stroke:#333
+    style End fill:#f9f,stroke:#333
+    style Final fill:#ccf,stroke:#333
 ```
 
 ---
