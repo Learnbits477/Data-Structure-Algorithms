@@ -27,20 +27,18 @@ This monotonic property allows for a highly efficient **Two-Pointer** approach.
 
 ## 📊 Visual Representation
 
-```mermaid
 flowchart LR
-    Start([Start]) --> Init[i = 0, j = 0, maxDist = 0]
-    Init --> Loop{i < Len1 AND j < Len2}
+    Start([Start]) --> Init["i = 0, j = 0, maxDist = 0"]
+    Init --> Loop{"i < Len1 AND j < Len2"}
     Loop -- No --> End([Return maxDist])
-    Loop -- Yes --> Compare{nums1[i] <= nums2[j]}
-    Compare -- Yes --> Valid{i <= j}
-    Valid -- Yes --> Update[maxDist = max]
-    Update --> IncJ[j++]
+    Loop -- Yes --> Compare{"nums1[i] <= nums2[j]"}
+    Compare -- Yes --> Valid{"i <= j"}
+    Valid -- Yes --> Update["maxDist = max"]
+    Update --> IncJ["j++"]
     Valid -- No --> IncJ
-    Compare -- No --> IncI[i++]
+    Compare -- No --> IncI["i++"]
     IncJ --> Loop
     IncI --> Loop
-```
 
 ---
 
