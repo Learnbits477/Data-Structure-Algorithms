@@ -19,16 +19,19 @@ $$\text{Mirror Distance} = |n - \text{reverse}(n)|$$
 
 ```mermaid
 graph TD
-    A[Start] --> B[Initialize reverse_n = 0, temp = n]
-    B --> C{temp > 0?}
-    C -->|Yes| D[digit = temp % 10]
-    D --> E[reverse_n = reverse_n * 10 + digit]
-    E --> F[temp = temp / 10]
-    F --> C
-    C -->|No| G[Result = abs\(n - reverse_n\)]
-    G --> H[End]
-```
+    Start([Start]) --> Init[Initialize:<br/>reverse_n = 0<br/>temp = n]
+    Init --> Check{temp > 0?}
+    Check -- Yes --> Extract[digit = temp % 10]
+    Extract --> Build[reverse_n = reverse_n * 10 + digit]
+    Build --> Reduce[temp = temp / 10]
+    Reduce --> Check
+    Check -- No --> Calc["Result = abs(n - reverse_n)"]
+    Calc --> End([End])
 
+    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    style End fill:#f9f,stroke:#333,stroke-width:2px
+    style Check fill:#fff4dd,stroke:#d4a017,stroke-width:2px
+```
 ---
 
 ## 📊 Visual Walkthrough (n = 25)
