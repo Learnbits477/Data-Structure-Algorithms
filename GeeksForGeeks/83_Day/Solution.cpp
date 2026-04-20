@@ -1,17 +1,6 @@
 #include <iostream>
 #include <vector>
 
-/**
- * @file Solution.cpp
- * @brief Implementation of the Count Derangements problem.
- * 
- * Derangement Recurrence:
- * D(n) = (n - 1) * [D(n - 1) + D(n - 2)]
- * Base Cases:
- * D(1) = 0
- * D(2) = 1
- */
-
 class Solution {
 public:
     int derangeCount(int n) {
