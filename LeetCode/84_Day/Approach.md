@@ -1,4 +1,4 @@
-# Minimize Hamming Distance After Swap Operations - Approach
+# [Minimize Hamming Distance After Swap Operations - Approach](Solution.cpp)
 
 To solve this problem efficiently, we need to recognize that if indices $i, j$ and $j, k$ are allowed to be swapped, then any element in the set $\{i, j, k\}$ can move to any of these indices. This naturally forms a **Connected Component** in a graph where each swap is an edge.
 
