@@ -1,5 +1,7 @@
 # Split an Array into Two Equal Sum Subarrays
-
+---
+**Difficulty:** Easy  **Accuracy:** 54.45%  **Submissions:** 44K+  **Points:** 2
+---
 **Link:** [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1)
 
 ## Problem Description
@@ -23,7 +25,4 @@ Given an array of integers `arr[]`, return `true` if it is possible to split it 
 - $1 \le arr[i] \le 10^6$
 
 ---
-**Difficulty:** Easy  
-**Accuracy:** 54.45%  
-**Submissions:** 44K+  
-**Points:** 2
+**Solution:** [Solution.cpp](Solution.cpp) | **Approach:** [Approach.md](Approach.md)
