@@ -1,6 +1,6 @@
 # Split an Array into Two Equal Sum Subarrays
----
-**Difficulty:** Easy  **Accuracy:** 54.45%  **Submissions:** 44K+  **Points:** 2
+
+*** [**Difficulty:** Easy  **Accuracy:** 54.45%  **Submissions:** 44K+  **Points:** 2]
 ---
 **Link:** [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1)
 
