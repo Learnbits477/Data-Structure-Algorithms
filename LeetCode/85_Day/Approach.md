@@ -1,6 +1,6 @@
 # [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)
-
-## Solution | Brute Force | Hamming Distance Comparison
+---
+**Solution:** [Solution.cpp](Solution.cpp)| Brute Force | Hamming Distance Comparison
 
 ### 💡 Intuition
 The problem asks us to find which query words can match *any* dictionary word with at most 2 edits. An "edit" is defined as changing one character to another. Since all words have the same length, this is equivalent to finding if the **Hamming Distance** between a query word and any dictionary word is $\le 2$.
