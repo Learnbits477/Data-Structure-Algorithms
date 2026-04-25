@@ -1,4 +1,4 @@
-# Approach - Maximize the Distance Between Points on a Square
+# [Approach - Maximize the Distance Between Points on a Square](Solution.cpp)
 
 ## 💡 Problem Intuition
 
