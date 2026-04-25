@@ -1,4 +1,4 @@
-# Approach - Opposite Sign Pair Reduction (Asteroid Collision)
+# [Approach - Opposite Sign Pair Reduction (Asteroid Collision)](Solution.cpp)
 
 ## Problem Intuition
 The problem requires us to simulate collisions between elements. A collision occurs strictly when two adjacent elements have **opposite signs**. The element with the larger absolute value survives. If both have the same absolute value, both are destroyed. Since we need to repeatedly process collisions from left to right, and any newly formed adjacent elements can also collide, a **Stack** data structure is perfectly suited. It allows us to process the current element against the most recently surviving elements efficiently.
