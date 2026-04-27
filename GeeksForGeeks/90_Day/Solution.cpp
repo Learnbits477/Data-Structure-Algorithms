@@ -27,7 +27,3 @@ public:
         return minLen;
     }
 };
-
-// Problem Link: ./Problem.md
-// Approach Link: ./Approach.md
-// Main Link: ./main.cpp
