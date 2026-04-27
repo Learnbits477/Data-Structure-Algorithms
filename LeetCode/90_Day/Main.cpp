@@ -35,7 +35,3 @@ int main() {
 
     return 0;
 }
-
-// Problem Link: ./Problem.md
-// Approach Link: ./Approach.md
-// Solution Link: ./Solution.cpp
