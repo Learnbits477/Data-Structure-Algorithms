@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Difficulty-Hard-E53935?style=for-the-badge" alt="Difficulty: Hard">
   <img src="https://img.shields.io/badge/Topic-Dynamic%20Programming-7B1FA2?style=for-the-badge" alt="DP">
   <img src="https://img.shields.io/badge/Topic-Prefix%20Sum-1565C0?style=for-the-badge" alt="Prefix Sum">
+  <img src="https://img.shields.io/badge/Daily-2026--04--29-1565C0?style=for-the-badge" alt="Daily 2026-04-29">
 </div>
 
 ---
