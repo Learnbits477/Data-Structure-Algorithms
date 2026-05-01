@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LeetCode-396-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 396">
   <img src="https://img.shields.io/badge/Difficulty-Medium-F9A825?style=for-the-badge" alt="Difficulty: Medium">
   <img src="https://img.shields.io/badge/Topic-Math%20%7C%20Array-7B1FA2?style=for-the-badge" alt="Math Array">
-  <img src="https://img.shields.io/badge/Daily-2026--03--30-1565C0?style=for-the-badge" alt="Daily 2026-03-30">
+  <img src="https://img.shields.io/badge/Daily-2026--05--01-1565C0?style=for-the-badge" alt="Daily 2026-05-01">
 </div>
 
 ---
