@@ -355,6 +355,8 @@ g++ -std=c++17 -O2 Main.cpp -o solution
 [![GitHub](https://img.shields.io/badge/GitHub-Learnbits477-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Learnbits477)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-pankajkumqoi3-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-PankajKumar477-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pankaj%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-kumar-0a98b5302/)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-PankajB42550-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PankajB42550)
 
 </div>
 
@@ -364,6 +366,6 @@ g++ -std=c++17 -O2 Main.cpp -o solution
 
 **If this repository helped you, consider giving it a ⭐ — it keeps the motivation going!**
 
-*Keep solving. Keep growing. — Pankaj Kumar* 🚀
-https://www.linkedin.com/posts/pankaj-kumar-0a98b5302
+*Keep solving. Keep growing. — [Pankaj Kumar](https://github.com/Learnbits477)* 🚀
+
 </div>
