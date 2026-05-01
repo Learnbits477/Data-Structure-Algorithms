@@ -12,11 +12,11 @@
 
 <br/>
 
-[![C++17](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-94%20Solved-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
-[![LeetCode](https://img.shields.io/badge/LeetCode-94%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
-[![Commits](https://img.shields.io/badge/Commits-256%2B-4CAF50?style=flat-square&logo=git&logoColor=white)](https://github.com/Learnbits477/Data-Structure-Algorithms/commits/main)
-[![Stars](https://img.shields.io/github/stars/Learnbits477/Data-Structure-Algorithms?style=flat-square&color=yellow)](https://github.com/Learnbits477/Data-Structure-Algorithms/stargazers)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> [![C++17](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Bullseye" width="30" height="30" /> [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-94%20Solved-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> [![LeetCode](https://img.shields.io/badge/LeetCode-94%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="30" height="30" /> [![Commits](https://img.shields.io/badge/Commits-256%2B-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Learnbits477/Data-Structure-Algorithms/commits/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" height="30" /> [![Stars](https://img.shields.io/github/stars/Learnbits477/Data-Structure-Algorithms?style=for-the-badge&color=yellow)](https://github.com/Learnbits477/Data-Structure-Algorithms/stargazers)
 
 </div>
 
