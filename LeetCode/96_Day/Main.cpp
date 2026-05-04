@@ -41,20 +41,3 @@ int main() {
 
     return 0;
 }
-
-/**
- * Related Files:
- * - Problem.md: [Problem.md](./Problem.md)
- * - Solution.cpp: [Solution.cpp](./Solution.cpp)
- * - Approach.md: [Approach.md](./Approach.md)
- */
-
-/**
- * @file Main.cpp
- * @brief Driver code to verify the Solution.cpp
- * 
- * Links:
- * - [Problem.md](./Problem.md)
- * - [Solution.cpp](./Solution.cpp)
- * - [Approach.md](./Approach.md)
- */
