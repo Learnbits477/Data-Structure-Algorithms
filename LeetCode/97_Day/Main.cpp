@@ -1,13 +1,3 @@
-/**
- * @file Main.cpp
- * @brief Test driver for the Rotate Image problem.
- * 
- * 🔗 Related Files:
- * - [Problem.md](Problem.md)
- * - [Approach.md](Approach.md)
- * - [Solution.cpp](Solution.cpp)
- */
-
 #include <iostream>
 #include <vector>
 #include <iomanip>
