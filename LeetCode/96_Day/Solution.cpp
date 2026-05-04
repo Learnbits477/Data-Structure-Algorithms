@@ -13,10 +13,3 @@ public:
         return doubled.find(goal) != string::npos;
     }
 };
-
-/**
- * Related Files:
- * - Problem.md: [Problem.md](./Problem.md)
- * - Approach.md: [Approach.md](./Approach.md)
- * - Main.cpp: [Main.cpp](./Main.cpp)
- */
