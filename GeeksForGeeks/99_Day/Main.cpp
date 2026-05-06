@@ -72,8 +72,3 @@ int main() {
 
     return 0;
 }
-
-/**
- * 🔗 Quick Links
- * [Problem Statement](./Problem.md) | [Solution Code](./Solution.cpp) | [Approach / Logic](./Approach.md)
- */
