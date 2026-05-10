@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/Learnbits477/Data-Structure-Algorithms">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=298D46&center=true&vCenter=true&width=500&lines=188%2B+Problems+Solved;GeeksForGeeks+%26+LeetCode;Consistent+Daily+Grind;C%2B%2B17+Solutions" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=298D46&center=true&vCenter=true&width=500&lines=200%2B+Problems+Solved;GeeksForGeeks+%26+LeetCode;Consistent+Daily+Grind;C%2B%2B17+Solutions" alt="Typing Animation" />
   </a>
 </p>
 
-<p><em>A disciplined, day-by-day grind through competitive programming — 188+ problems solved across GeeksForGeeks and LeetCode.</em></p>
+<p><em>A disciplined, day-by-day grind through competitive programming — 200+ problems solved across GeeksForGeeks and LeetCode.</em></p>
 
 <br/>
 
