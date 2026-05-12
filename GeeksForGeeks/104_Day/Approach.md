@@ -1,7 +1,10 @@
 # Palindrome Pairs - Approach
+<div align="center">
 
 | [Problem.md](Problem.md) | [Approach.md](Approach.md) | [Solution.cpp](Solution.cpp) | [Main.cpp](Main.cpp) |
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
+
+</div>
 
 ---
 
@@ -171,5 +174,7 @@ stateDiagram-v2
 
 ---
 
-| Happy Coding! 🚀 |
-|:---:|
+<div align="center">
+Happy Coding! 🚀
+</div>
+
