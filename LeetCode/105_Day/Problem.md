@@ -1,0 +1,105 @@
+# [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)
+
+<div align="center">
+
+| [Problem.md](Problem.md) | [Approach.md](Approach.md) | [Solution.cpp](Solution.cpp) | [Main.cpp](Main.cpp) |
+| :---: | :---: | :---: | :---: |
+
+</div>
+
+---
+
+**Difficulty:** Hard &nbsp;|&nbsp; **Acceptance Rate:** 62.8% &nbsp;|&nbsp; **Submissions:** 41.9K+ &nbsp;|&nbsp; **Points:** 8
+
+---
+
+## 🧩 Problem Description
+
+You are given an array `tasks` where `tasks[i] = [actual_i, minimum_i]`:
+
+- `actual_i` is the actual amount of energy you spend to finish the `i`-th task.
+- `minimum_i` is the minimum amount of energy you require to **begin** the `i`-th task.
+
+For example, if the task is `[10, 12]` and your current energy is `11`, you **cannot** start this task. However, if your current energy is `13`, you can complete this task, and your energy will be `3` after finishing it.
+
+You can finish the tasks in **any order** you like.
+
+Return the **minimum initial amount of energy** you will need to finish all the tasks.
+
+---
+
+## 📌 Examples
+
+### Example 1
+
+```
+Input:  tasks = [[1,2],[2,4],[4,8]]
+Output: 8
+
+Explanation:
+Starting with 8 energy, finish tasks in order:
+  3rd task → energy = 8 - 4 = 4
+  2nd task → energy = 4 - 2 = 2
+  1st task → energy = 2 - 1 = 1
+Starting with 7 energy does NOT work (cannot start 3rd task).
+```
+
+### Example 2
+
+```
+Input:  tasks = [[1,3],[2,4],[10,11],[10,12],[8,9]]
+Output: 32
+
+Explanation:
+Starting with 32 energy, finish tasks in order:
+  1st task → energy = 32 - 1  = 31
+  2nd task → energy = 31 - 2  = 29
+  3rd task → energy = 29 - 10 = 19
+  4th task → energy = 19 - 10 = 9
+  5th task → energy = 9  - 8  = 1
+```
+
+### Example 3
+
+```
+Input:  tasks = [[1,7],[2,8],[3,9],[4,10],[5,11],[6,12]]
+Output: 27
+
+Explanation:
+Starting with 27 energy, finish tasks in order:
+  5th task → energy = 27 - 5 = 22
+  2nd task → energy = 22 - 2 = 20
+  3rd task → energy = 20 - 3 = 17
+  1st task → energy = 17 - 1 = 16
+  4th task → energy = 16 - 4 = 12
+  6th task → energy = 12 - 6 = 6
+```
+
+---
+
+## 📐 Constraints
+
+$$1 \leq \texttt{tasks.length} \leq 10^5$$
+
+$$1 \leq \texttt{actual}_i \leq \texttt{minimum}_i \leq 10^4$$
+
+---
+
+## ⏱️ Expected Complexities
+
+| Metric          | Complexity         |
+|-----------------|--------------------|
+| Time Complexity | $O(n \log n)$      |
+| Space Complexity| $O(1)$ extra       |
+
+---
+
+## 🏷️ Topic Tags
+
+`Array` &nbsp; `Greedy` &nbsp; `Sorting`
+
+---
+
+<div align="center">
+Happy Coding! 🚀
+</div>
