@@ -1,7 +1,11 @@
 # [Palindrome Pairs](https://www.geeksforgeeks.org/problems/palindrome-pairs/1)
 
-| 📄 [Problem](Problem.md) | 💡 [Approach](Approach.md) | 🧠 [Solution](Solution.cpp) | 🚀 [Main](Main.cpp) |
-|:---:|:---:|:---:|:---:|
+<div align="center">
+
+| [Problem.md](Problem.md) | [Approach.md](Approach.md) | [Solution.cpp](Solution.cpp) | [Main.cpp](Main.cpp) |
+| :---: | :---: | :---: | :---: |
+
+</div>
 
 ---
 
@@ -57,6 +61,6 @@ $$1 \leq n \leq 2 \times 10^4$$
 $$1 \leq |arr[i]| \leq 10$$
 
 ---
-
-| Happy Coding! 🚀 |
-|:---:|
+<div align="center">
+Happy Coding! 🚀
+</div>
