@@ -62,6 +62,6 @@ With 1 vertex, a spanning tree needs 0 edges. The graph already satisfies this.
 
 <div align="center" style="font-size: x-large; font-weight: bold; color: blue;">
 
-# Happy Coding! 🚀
+Happy Coding! 🚀
 
 </div>
