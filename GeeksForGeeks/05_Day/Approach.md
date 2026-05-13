@@ -66,3 +66,12 @@ flowchart TD
 - **i=8 (val=6):** `6 > 3`, pop 7. `6 > 5`, pop 5. Push 8. Deque: `[8]`. Window `[6..8]`. Max: `arr[8]=6`. Result: `[3, 3, 4, 5, 5, 5, 6]`
 
 **Final Output:** `[3, 3, 4, 5, 5, 5, 6]`
+
+
+---
+<div align="center">
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
