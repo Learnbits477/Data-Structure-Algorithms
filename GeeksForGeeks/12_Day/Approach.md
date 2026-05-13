@@ -71,3 +71,12 @@ flowchart TD
 | 5 | 2 | No | `max(2, 0*2) = 2` | `min(2, 0*2) = 0` | `max(180, 2) = 180` |
 
 **Final Output:** `180`
+
+
+---
+<div align="center">
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
