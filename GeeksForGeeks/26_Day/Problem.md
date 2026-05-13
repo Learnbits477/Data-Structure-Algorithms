@@ -1,4 +1,5 @@
-# Count Subarrays with given XOR
+# [GeeksForGeeks - Count Subarrays with given XOR](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
+
 
 **Difficulty:** Medium
 **Accuracy:** 58.86%
@@ -54,6 +55,10 @@ Output: 4
 
 ---
 
-## Source
-
-[GeeksForGeeks - Count Subarrays with given XOR](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
