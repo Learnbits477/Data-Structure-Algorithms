@@ -1,16 +1,12 @@
-# [Palindrome Numbers](https://www.geeksforgeeks.org/problems/palindrome-numbers0942/1)
-
+# [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/palindrome-numbers0942/1)
 ---
 
-## 🔗 Related Files
+<div align="center">
 
-| File | Description |
-|:-----|:------------|
-| [Approach.md](Approach.md) | Logic behind binary palindrome check |
-| [Solution.cpp](Solution.cpp) | Implementation of the bitwise check |
-| [Main.cpp](Main.cpp) | Test driver for verification |
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
 
----
+</div>
 
 ## 📝 Problem Description
 
@@ -50,5 +46,10 @@ Check if the binary representation of a number $N$ is a palindrome or not.
 
 ---
 
-## 🌐 References
-- [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/palindrome-numbers0942/1)
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
