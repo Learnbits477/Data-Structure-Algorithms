@@ -54,7 +54,9 @@ root1 = [26, 10, N, 20, 30, 40, 60], root2 = [26, 10, N, 20, 30, 40, 60]
 - $1 \le \text{value of nodes} \le 10^4$
 
 ---
-
-<p align="center">
-  <b>Happy Coding! 🚀</b>
-</p>
+<div align="center">
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
