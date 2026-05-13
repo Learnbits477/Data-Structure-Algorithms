@@ -2,15 +2,12 @@
 
 ---
 
-## 🔗 Related Files
+<div align="center">
 
-| File | Description |
-|:-----|:------------|
-| [Problem.md](Problem.md) | Full problem statement & constraints |
-| [Solution.cpp](Solution.cpp) | Optimized O(1) Bitwise solution |
-| [Main.cpp](Main.cpp) | Test driver with sample test cases |
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
 
----
+</div>
 
 ## 💡 Core Intuition
 
@@ -102,3 +99,13 @@ flowchart TD
 
 - The property `N & (N-1)` is a classic bitwise trick to remove the rightmost set bit. If after removing the rightmost set bit the result is 0, it means there was only one set bit to begin with.
 - Using `log2(N)` is mathematically sound because if `N = 2^x`, then `x = log2(N)`. Since the position is 1-based, we add 1.
+
+---
+
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
