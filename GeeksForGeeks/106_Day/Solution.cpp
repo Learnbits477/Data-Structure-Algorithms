@@ -1,35 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// -----------------------------------------------------------
-//  Solution — Mother Vertex
-//
-//  Key Insight (Kosaraju-inspired):
-//  ─────────────────────────────────────────────────────────
-//  In a directed graph, if a mother vertex exists it must be
-//  the vertex that finishes LAST in a DFS traversal over the
-//  entire graph (i.e. it has the highest finish time).
-//
-//  Proof sketch:
-//    • Run a full DFS visiting every unvisited vertex.
-//    • The last vertex to finish in the outermost DFS call
-//      must be inside the SCC that contains all mother
-//      vertices (if any).
-//    • We then verify this candidate by running a fresh DFS
-//      from it and checking that it reaches all V vertices.
-//
-//  Algorithm:
-//    Step 1 — DFS sweep to record the last-finishing vertex.
-//    Step 2 — DFS from that candidate; count reachable nodes.
-//    Step 3 — If reachable == V, it is a mother vertex.
-//              Then scan for the smallest index that can also
-//              reach all V nodes (there may be multiple).
-//    Step 4 — Return the smallest mother vertex, or -1.
-//
-//  Time  : O(V + E)
-//  Space : O(V)
-// -----------------------------------------------------------
-
 class Solution {
     // ── DFS helpers ──────────────────────────────────────────
 
