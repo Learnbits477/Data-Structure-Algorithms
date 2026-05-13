@@ -1,10 +1,11 @@
 # 🚀 Approach: Sum of XOR of All Pairs
 
-## 🔗 Quick Links
-| [Problem Statement](./Problem.md) | [Solution Code](./Solution.cpp) | [Test Driver](./Main.cpp) |
-| :--- | :--- | :--- |
+<div align="center">
 
----
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
+
+</div>
 
 ## 💡 Intuition
 The core idea is to realize that the **sum of XOR values** can be calculated **bit by bit**. 
@@ -92,3 +93,14 @@ graph TD
 
 ## 🏆 Key Takeaway
 Bitwise problems often become much simpler when you look at each bit position independently. This "contribution-to-sum" technique is a powerful pattern for XOR-related problems.
+
+---
+
+
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
