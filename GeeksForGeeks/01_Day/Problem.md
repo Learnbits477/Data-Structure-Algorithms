@@ -1,8 +1,9 @@
 # [GeeksForGeeks - Count Subset With Target Sum II](https://www.geeksforgeeks.org/problems/count-the-subset-with-sum-equal-to-k/1)
 
 <div align="center">
-  
-[**Approach.md**](./Approach.md) • [**Solution.cpp**](./Solution.cpp) • [**Main.cpp**](./Main.cpp)
+
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
 
 </div>
 
