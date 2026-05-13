@@ -1,5 +1,12 @@
 # Approach: Meet in the Middle
 
+<div align="center">
+
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
+
+</div> 
+
 ## Intuition
 
 The problem requires us to find the count of subsets that sum up to a target `k`. 
@@ -51,11 +58,6 @@ graph TD
   Generating the subsets takes $O(2^{N/2})$. Sorting the `rightSums` takes $O(2^{N/2} \cdot \log(2^{N/2}))$. The search step also takes identical time. Thus, the overall time complexity is heavily bound by the sorting and searching phases, comfortably passing the $1$ second time limit for $N \le 40$.
 - **Space Complexity:** $O(2^{N/2})$
   We store the subset sums for both halves in vectors, which require up to $2^{20} \approx 10^6$ elements. This comfortably fits within memory limits.
-
-## Related Files
-- [Problem Description](Problem.md)
-- [C++ Solution](Solution.cpp)
-- [Main Driver File](Main.cpp)
 
 ---
 
