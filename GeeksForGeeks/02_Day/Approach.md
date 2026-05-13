@@ -1,7 +1,8 @@
 # Approach: First Non-repeating Character in a Stream
 
-<div align="center">
 
+<div align="center">
+    
 | 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
 |:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
 
