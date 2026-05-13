@@ -59,3 +59,11 @@ flowchart TD
 | 6 | 2 | 1 | `2 > 1` -> Profit = `2 - 1 = 1` | 8 |
 
 **Final Output:** `8`
+
+---
+<div align="center">
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
