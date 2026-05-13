@@ -1,12 +1,11 @@
 # Approach: First Non-repeating Character in a Stream
 
 <div align="center">
-  
-[**Problem.md**](./Problem.md) • [**Solution.cpp**](./Solution.cpp) • [**Main.cpp**](./Main.cpp)
+
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
 
 </div>
-
-<br>
 
 ## 🧠 Intuition
 
