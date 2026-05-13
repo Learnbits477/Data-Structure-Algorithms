@@ -1,10 +1,11 @@
 # 🚀 Approach: Size of Binary Tree
 
-## 🔗 Quick Links
-| [Problem Statement](./Problem.md) | [Solution Code](./Solution.cpp) | [Test Driver](./Main.cpp) |
-| :--- | :--- | :--- |
+<div align="center">
 
----
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
+
+</div>
 
 ## 💡 Intuition
 The size of a binary tree can be defined recursively:
@@ -93,3 +94,12 @@ graph TD
 
 ## 🏆 Key Takeaway
 Recursion is the most natural way to traverse tree structures. The "Divide and Conquer" strategy allows us to solve the problem for sub-problems (subtrees) and combine them easily.
+
+
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
