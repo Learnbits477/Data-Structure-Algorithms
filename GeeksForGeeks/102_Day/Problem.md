@@ -59,9 +59,9 @@ With 1 vertex, a spanning tree needs 0 edges. The graph already satisfies this.
 - $0 \le edges[i][0], edges[i][1] \le n-1$
 
 ---
-
-<div align="center" style="font-size: x-large; font-weight: bold; color: blue;">
-
-Happy Coding! 🚀
-
+<div align="center">
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
 </div>
