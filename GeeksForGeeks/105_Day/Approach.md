@@ -154,5 +154,8 @@ Where $V = \max(\text{arr}[i]) \leq 10^4$, so $\log V \approx 14$. This fits com
 
 ---
 <div align="center">
-Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
 </div>
