@@ -1,5 +1,12 @@
 # Approach – Count Subarrays with given XOR
 
+<div align="center">
+
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
+
+</div>
+
 ## Intuition
 
 We want to count subarrays whose XOR equals `k`.
@@ -78,3 +85,12 @@ Answer = 2 ✓
 
 - For every pair `(l, r)`, compute XOR of `arr[l..r]` and check if it equals `k`.
 - Works but is too slow for `n = 10^5`.
+
+  
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
