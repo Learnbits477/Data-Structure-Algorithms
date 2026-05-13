@@ -1,16 +1,12 @@
 # [Sort by Set Bit Count](https://www.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1)
 
 ---
+<div align="center">
 
-## 🔗 Related Files
+| 📄 [Problem](./Problem.md) | 💡 [Approach](./Approach.md) | 🧩 [Solution](./Solution.cpp) | 🚀 [Main](./Main.cpp) |
+|:--------------------------:|:-----------------------------:|:------------------------------:|:---------------------:|
 
-| File | Description |
-|:-----|:------------|
-| [Approach.md](Approach.md) | Detailed explanation of stable sort and popcount |
-| [Solution.cpp](Solution.cpp) | Implementation using std::stable_sort |
-| [Main.cpp](Main.cpp) | Test driver for verification |
-
----
+</div>
 
 ## 📝 Problem Description
 
@@ -45,5 +41,10 @@ Given an array `arr[]` of integers, sort the array (in descending order) accordi
 
 ---
 
-## 🌐 References
-- [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1)
+<div align="center">
+Happy Coding! 🚀
+Happy Coding! 🚀 <br>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+</div>
