@@ -49,11 +49,11 @@ lo = min(a, b),   hi = max(a, b)
 
 Cost to achieve target sum T:
   ┌─────────────────────────────────────────────────────┐
-  │  T in [2, lo]              →  2 moves (change both) │
-  │  T in [lo+1, lo+hi-1]     →  1 move  (change lo)    │
-  │  T = lo+hi                 →  0 moves (already done)│
-  │  T in [lo+hi+1, limit+hi] →  1 move  (change hi)    │
-  │  T in [limit+hi+1,2*limit]→  2 moves (change both)  │
+  │  T in [2, lo]              →  2 moves (change both)     │
+  │  T in [lo+1, lo+hi-1]     →  1 move  (change lo)        │
+  │  T = lo+hi                 →  0 moves (already done).   │
+  │  T in [lo+hi+1, limit+hi] →  1 move  (change hi)        │
+  │  T in [limit+hi+1,2*limit]→  2 moves (change both)      │
   └─────────────────────────────────────────────────────┘
 ```
 
