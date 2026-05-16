@@ -34,14 +34,14 @@
 ## 🔄 Mermaid Flowchart
 ```mermaid
 flowchart TD
-    A[Start] --> B[low = 0, high = n-1]
-    B --> C{low < high?}
-    C -- No --> D[Return nums[low]]
-    C -- Yes --> E[mid = low + high-low / 2]
-    E --> F{nums[mid] vs nums[high]}
-    F -- ">" --> G[low = mid + 1]
-    F -- "<" --> H[high = mid]
-    F -- "==" --> I[high--]
+    A[Start] --> B["low = 0, high = n-1"]
+    B --> C{"low < high?"}
+    C -- No --> D["Return nums[low]"]
+    C -- Yes --> E["mid = low + (high-low)/2"]
+    E --> F{"nums[mid] vs nums[high]"}
+    F -- ">" --> G["low = mid + 1"]
+    F -- "<" --> H["high = mid"]
+    F -- "==" --> I["high--"]
     G --> C
     H --> C
     I --> C
