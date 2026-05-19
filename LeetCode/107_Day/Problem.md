@@ -103,14 +103,14 @@ $$1 \leq \text{nums}[i] \leq 200$$
 
 ---
 <div align="center">
-Happy Coding! 🚀 <br>
-<a href="../106_Day/Problem.md">
-  <img src="https://img.shields.io/badge/Previous%20Day%20Problem-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Previous">
+<h2>Happy Coding! 🚀</h2>
+<a href="../109_Day/Problem.md">
+  <img src="https://img.shields.io/badge/◀-Previous%20Day-000000?style=for-the-badge&labelColor=FFA116" alt="Previous">
 </a>
 <a href="https://x.com/PankajB42550" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/Pankaj%20Kumar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
-<a href="../108_Day/Problem.md">
-  <img src="https://img.shields.io/badge/Next%20Day%20Problem-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Next">
+<a href="../111_Day/Problem.md">
+  <img src="https://img.shields.io/badge/Next%20Day-▶-FFA116?style=for-the-badge&labelColor=000000" alt="Next">
 </a>
 </div>
