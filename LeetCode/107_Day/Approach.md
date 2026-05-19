@@ -157,8 +157,14 @@ flowchart LR
 
 ---
 <div align="center">
-Happy Coding! 🚀 <br>
+<h2>Happy Coding! 🚀</h2>
+<a href="../109_Day/Approach.md">
+  <img src="https://img.shields.io/badge/◀-Previous%20Day-000000?style=for-the-badge&labelColor=FFA116" alt="Previous">
+</a>
 <a href="https://x.com/PankajB42550" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/Pankaj%20Kumar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="../111_Day/Approach.md">
+  <img src="https://img.shields.io/badge/Next%20Day-▶-FFA116?style=for-the-badge&labelColor=000000" alt="Next">
 </a>
 </div>
