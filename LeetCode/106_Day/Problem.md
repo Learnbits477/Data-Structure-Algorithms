@@ -104,5 +104,14 @@ $$n \text{ is even}$$
 
 ---
 <div align="center">
-Happy Coding! 🚀
+<h2>Happy Coding! 🚀</h2>
+<a href="../105_Day/Approach.md">
+  <img src="https://img.shields.io/badge/◀-Previous%20Day-000000?style=for-the-badge&labelColor=FFA116" alt="Previous">
+</a>
+<a href="https://x.com/PankajB42550" target="_blank">
+  <img src="https://img.shields.io/badge/Pankaj%20Kumar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="../107_Day/Approach.md">
+  <img src="https://img.shields.io/badge/Next%20Day-▶-FFA116?style=for-the-badge&labelColor=000000" alt="Next">
+</a>
 </div>
