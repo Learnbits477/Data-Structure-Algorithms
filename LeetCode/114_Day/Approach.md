@@ -86,8 +86,8 @@ flowchart TD
 
 | Type | Complexity | Description |
 | :--- | :--- | :--- |
-| **Time Complexity** | $$O((N + M) \log_{10}(\text{max\_val}))$$ | For each element in both arrays, we perform at most $\log_{10}(\text{max\_val})$ divisions and set operations. With $\text{max\_val} \le 10^8$, this is at most $9$ iterations per number. |
-| **Auxiliary Space** | $$O(N \log_{10}(\text{max\_val}))$$ | The hash set stores up to $9 \times N$ unique prefixes from the first array. |
+| **Time Complexity** | $$O((N + M) \log_{10}(\text{max val}))$$ | For each element in both arrays, we perform at most $\log_{10}(\text{max val})$ divisions and set operations. With $\text{max val} \le 10^8$, this is at most $9$ iterations per number. |
+| **Auxiliary Space** | $$O(N \log_{10}(\text{max val}))$$ | The hash set stores up to $9 \times N$ unique prefixes from the first array. |
 
 ---
 
