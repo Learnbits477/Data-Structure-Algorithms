@@ -70,8 +70,8 @@ Note that common prefixes between elements of the same array do not count.
 
 | Complexity | Requirement |
 | :--- | :--- |
-| **Time Complexity** | $$O((N + M) \log_{10}(\text{max\_val}))$$ |
-| **Auxiliary Space** | $$O(N \log_{10}(\text{max\_val}))$$ |
+| **Time Complexity** | $$O((N + M) \log_{10}(\text{max val}))$$ |
+| **Auxiliary Space** | $$O(N \log_{10}(\text{max val}))$$ |
 
 ---
 
