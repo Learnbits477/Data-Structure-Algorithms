@@ -9,8 +9,6 @@
 
 ---
 
-## 📊 Metadata
-
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 ![Acceptance: 57.5%](https://img.shields.io/badge/Acceptance-57.5%25-blue?style=for-the-badge)
 ![Submissions: 183.3K](https://img.shields.io/badge/Submissions-183.3K-purple?style=for-the-badge)
