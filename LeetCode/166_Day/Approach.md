@@ -86,10 +86,10 @@ flowchart TD
 - **Step 2: Remove Duplicates**
   - $sortedArr$ has no duplicates, remains: $[10, 20, 30, 40]$.
 - **Step 3: Map Elements**
-  - $arr[0] = 40 \implies \text{lower\_bound}(sortedArr, 40) \text{ is at index } 3 \implies rank = 3 + 1 = 4$.
-  - $arr[1] = 10 \implies \text{lower\_bound}(sortedArr, 10) \text{ is at index } 0 \implies rank = 0 + 1 = 1$.
-  - $arr[2] = 20 \implies \text{lower\_bound}(sortedArr, 20) \text{ is at index } 1 \implies rank = 1 + 1 = 2$.
-  - $arr[3] = 30 \implies \text{lower\_bound}(sortedArr, 30) \text{ is at index } 2 \implies rank = 2 + 1 = 3$.
+  - $arr[0] = 40 \implies$ `lower_bound` in $sortedArr$ is at index $3 \implies \text{rank} = 3 + 1 = 4$.
+  - $arr[1] = 10 \implies$ `lower_bound` in $sortedArr$ is at index $0 \implies \text{rank} = 0 + 1 = 1$.
+  - $arr[2] = 20 \implies$ `lower_bound` in $sortedArr$ is at index $1 \implies \text{rank} = 1 + 1 = 2$.
+  - $arr[3] = 30 \implies$ `lower_bound` in $sortedArr$ is at index $2 \implies \text{rank} = 2 + 1 = 3$.
   - $result = [4, 1, 2, 3]$.
 - **Return Result:** Return $[4, 1, 2, 3]$.
 
