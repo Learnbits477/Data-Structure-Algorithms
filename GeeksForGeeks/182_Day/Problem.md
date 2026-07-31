@@ -75,13 +75,6 @@ Return the shortest distance from `src` to `dest`. If `dest` is not reachable fr
 
 ## 🏷️ Topic Tags
 
-- Graph
-- BFS
-- Shortest Path
-- Dial's Algorithm
-
----
-
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
 <a href="../181_Day/Problem.md">
