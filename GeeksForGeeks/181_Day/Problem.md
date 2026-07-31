@@ -74,14 +74,6 @@ Given two arrays `pre[]` and `preMirror[]` of size $n$ containing unique element
 
 ---
 
-## 🏷️ Topic Tags
-
-- Tree
-- Traversal
-- Recursion
-- Hash
-
----
 
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
