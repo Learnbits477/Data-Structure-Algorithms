@@ -80,14 +80,6 @@ For every level of the binary tree, sort the values present at that level indepe
 
 ---
 
-## 🏷️ Topic Tags
-- Sorting
-- Queue
-- Tree
-- Priority-queue
-
----
-
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
 <a href="../179_Day/Problem.md">
