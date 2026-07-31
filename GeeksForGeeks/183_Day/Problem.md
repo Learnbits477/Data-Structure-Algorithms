@@ -59,14 +59,6 @@ Given an array `arr[]` of distinct positive numbers. Split the array into the mi
 
 ---
 
-## 🏷️ Topic Tags
-
-- Arrays
-- Sorting
-- Hash
-
----
-
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
 <a href="../182_Day/Problem.md">
