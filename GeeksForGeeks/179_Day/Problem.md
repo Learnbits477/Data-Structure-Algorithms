@@ -66,13 +66,6 @@ Given a $n \times n$ grid `mat[][]` of integers where values can be negative, fi
 
 ---
 
-## 🏷️ Topic Tags
-- Arrays
-- Matrix
-- Prefix Sum
-
----
-
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
 <a href="../178_Day/Problem.md">
