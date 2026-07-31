@@ -79,14 +79,6 @@ Return the count modulo $10^9 + 7$.
 
 ---
 
-## 🏷️ Topic Tags
-
-- Dynamic Programming
-- Bit Magic
-- Mathematics
-
----
-
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
 <a href="../184_Day/Problem.md">
