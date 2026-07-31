@@ -76,8 +76,6 @@ For the above test case, no sequence is possible. So the output is -1.
 
 ---
 
-## 🏷️ Topic Tags
-
 <div align="center">
 
 ![DFS](https://img.shields.io/badge/DFS-3498DB?style=for-the-badge)
