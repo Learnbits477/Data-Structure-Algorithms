@@ -62,13 +62,6 @@ Given an array `arr[]`, choose any subset of elements (possibly all elements) su
 
 ---
 
-## 🏷️ Topic Tags
-
-- Arrays
-- Bit Magic
-
----
-
 <div align="center">
 <h3>Happy Coding! 🚀</h3>
 <a href="../183_Day/Problem.md">
