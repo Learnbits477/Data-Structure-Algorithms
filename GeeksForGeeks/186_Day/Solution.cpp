@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int findMax(int n, vector<int>& a, vector<int>& b, vector<int>& k) {
+        vector<long long> diff(n + 1, 0);
+        int m = a.size();
+        
+        for (int i = 0; i < m; i++) {
+            diff[a[i]] += k[i];
+            if (b[i] + 1 < n) {
+                diff[b[i] + 1] -= k[i];
+            }
+        }
+        
+        long long maxVal = 0;
+        long long currentVal = 0;
+        for (int i = 0; i < n; i++) {
+            currentVal += diff[i];
+            maxVal = max(maxVal, currentVal);
+        }
+        
+        return (int)maxVal;
+    }
+};
