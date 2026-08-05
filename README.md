@@ -24,6 +24,7 @@
 
 ## 📌 Table of Contents
 
+- [🗺️ Navigation Guide](./NAVIGATION.md) (Detailed folder/file index)
 - [About](#-about)
 - [Repository Structure](#-repository-structure)
 - [Topics Covered](#-topics-covered)
@@ -62,12 +63,12 @@ Data-Structure-Algorithms/
 │   │   └── Main.cpp        ← Driver / test code
 │   ├── 02_Day/
 │   │   └── ...
-│   └── 190_Day/
+│   └── 114_Day/
 │
 ├── LeetCode/
 │   ├── 01_Day/
 │   │   └── ...
-│   └── 190_Day/
+│   └── 114_Day/
 │
 └── README.md
 ```
