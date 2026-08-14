@@ -40,17 +40,6 @@ s = "bcbbbcba"
 **Explanation:**
 The following substring has a length of 4 and contains at most two occurrences of each character: `"bcba"` (indices 4 to 7).
 
-#### 🧮 Dry Run Trace for Example 1:
-- `right = 0 ('b')`: window = `"b"`, frequencies = `{b:1}`, `max_len = 1`
-- `right = 1 ('c')`: window = `"bc"`, frequencies = `{b:1, c:1}`, `max_len = 2`
-- `right = 2 ('b')`: window = `"bcb"`, frequencies = `{b:2, c:1}`, `max_len = 3`
-- `right = 3 ('b')`: frequencies = `{b:3, c:1}` ❌ (`b` > 2). Shrink `left` from 0 to 1. window = `"cbb"`, frequencies = `{b:2, c:1}`, `max_len = 3`
-- `right = 4 ('b')`: frequencies = `{b:3, c:1}` ❌. Shrink `left` from 1 to 3. window = `"bb"`, frequencies = `{b:2, c:0}`, `max_len = 3`
-- `right = 5 ('c')`: window = `"bbc"`, frequencies = `{b:2, c:1}`, `max_len = 3`
-- `right = 6 ('b')`: frequencies = `{b:3, c:1}` ❌. Shrink `left` from 3 to 4. window = `"bcb"`, frequencies = `{b:2, c:1}`, `max_len = 3`
-- `right = 7 ('a')`: window = `"bcba"`, frequencies = `{b:2, c:1, a:1}`, `max_len = 4` ✅
-
----
 
 ### Example 2
 
@@ -67,13 +56,6 @@ s = "aaaa"
 **Explanation:**
 The following substring has a length of 2 and contains at most two occurrences of each character: `"aa"`.
 
-#### 🧮 Dry Run Trace for Example 2:
-- `right = 0 ('a')`: window = `"a"`, `freq[a] = 1`, `max_len = 1`
-- `right = 1 ('a')`: window = `"aa"`, `freq[a] = 2`, `max_len = 2`
-- `right = 2 ('a')`: `freq[a] = 3` ❌ > 2. Shrink `left` to 1 -> window = `"aa"`, `freq[a] = 2`, `max_len = 2`
-- `right = 3 ('a')`: `freq[a] = 3` ❌ > 2. Shrink `left` to 2 -> window = `"aa"`, `freq[a] = 2`, `max_len = 2` ✅
-
----
 
 ## 📐 Constraints
 
