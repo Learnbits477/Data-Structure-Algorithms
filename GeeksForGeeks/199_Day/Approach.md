@@ -1,4 +1,4 @@
-# 💡 Approach — Tricky Subset Problem
+# 💡 Approach — Subset Sum on Generated Sequence
 
 <div align="center">
 
