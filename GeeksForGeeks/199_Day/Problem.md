@@ -1,4 +1,4 @@
-# [Tricky Subset Problem](https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1)
+# 199. [Subset Sum on Generated Sequence](https://www.geeksforgeeks.org/problems/tricky-subset-problem1557/1)
 
 <div align="center">
 
