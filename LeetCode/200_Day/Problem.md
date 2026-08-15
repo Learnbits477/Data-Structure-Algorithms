@@ -76,11 +76,6 @@ The longest subsequence is `[2, 3, 4]`. The bitwise XOR is computed as $2 \oplus
 
 ---
 
-## 🏷️ Topic Tags
-
-- `Array`
-- `Bit Manipulation`
-
 <br/>
 
 <div align="center">
