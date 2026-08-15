@@ -1,4 +1,4 @@
-# [Numbers Without d as Digit](https://www.geeksforgeeks.org/problems/count-numbers2004/1)
+# 200. [Numbers Without d as Digit](https://www.geeksforgeeks.org/problems/count-numbers2004/1)
 
 <div align="center">
 
