@@ -1,4 +1,4 @@
-# [Min Product Subset](https://www.geeksforgeeks.org/problems/max-and-min-products3347/1)
+# 201. [Min Product Subset](https://www.geeksforgeeks.org/problems/max-and-min-products3347/1)
 
 <div align="center">
 
