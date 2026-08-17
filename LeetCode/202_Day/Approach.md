@@ -10,7 +10,7 @@
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge)
 ![Topic: Dynamic Programming](https://img.shields.io/badge/Topics:-Dynamic--Programming-blue?style=for-the-badge)
-![Topic: Game Theory](https://img.shields.io/badge/Topics:-Game--Theory-blue?style=for-the-badge)
+![Topic: Game Theory](https://img.shields.io/badge/Game--Theory-blue?style=for-the-badge)
 ![Company Tags](https://img.shields.io/badge/Company%20Tags-Google%20%7C%20Amazon%20%7C%20Microsoft-black?style=for-the-badge)
 
 ---
