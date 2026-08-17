@@ -11,9 +11,9 @@
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge)
 ![Acceptance: 40.8%](https://img.shields.io/badge/Acceptance-40.8%25-blue?style=for-the-badge)
 ![Topic: Array](https://img.shields.io/badge/Topics:-Array-blue?style=for-the-badge)
-![Topic: Math](https://img.shields.io/badge/Topics:-Math-blue?style=for-the-badge)
-![Topic: Dynamic Programming](https://img.shields.io/badge/Topics:-Dynamic--Programming-blue?style=for-the-badge)
-![Topic: Game Theory](https://img.shields.io/badge/Topics:-Game--Theory-blue?style=for-the-badge)
+![Topic: Math](https://img.shields.io/badge/Math-blue?style=for-the-badge)
+![Topic: Dynamic Programming](https://img.shields.io/badge/Dynamic--Programming-blue?style=for-the-badge)
+![Topic: Game Theory](https://img.shields.io/badge/Game--Theory-blue?style=for-the-badge)
 ![Company Tags](https://img.shields.io/badge/Company%20Tags-Google%20%7C%20Amazon%20%7C%20Microsoft-black?style=for-the-badge)
 
 ---
