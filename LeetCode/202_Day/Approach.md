@@ -66,23 +66,27 @@
 
 ```mermaid
 flowchart TD
-    A[Start: stoneValue array of size N] --> B[Build prefix sum array pref]
-    B --> C[Initialize dp table of size N x N with 0]
+    A["Start: stoneValue array of size N"] --> B["Build prefix sum array pref"]
+    B --> C["Initialize dp table of size N x N with 0"]
     C --> D["Loop len = 2 to N"]
-    D --> E["Loop i = 0 to N - len (j = i + len - 1)"]
+    D --> E["Loop i = 0 to N - len; j = i + len - 1"]
     E --> F["Loop k = i to j - 1"]
     F --> G["Compute leftSum and rightSum"]
     G --> H{"Compare leftSum vs rightSum"}
+
     H -- "leftSum < rightSum" --> I["dp[i][j] = max(dp[i][j], leftSum + dp[i][k])"]
     H -- "rightSum < leftSum" --> J["dp[i][j] = max(dp[i][j], rightSum + dp[k+1][j])"]
     H -- "Equal" --> K["dp[i][j] = max(dp[i][j], leftSum + max(dp[i][k], dp[k+1][j]))"]
-    I --> L{Next k?}
+
+    I --> L{"Next k?"}
     J --> L
     K --> L
-    L -- Yes --> F
-    L -- No --> M{Next i / len?}
-    M -- Yes --> E
-    M -- No --> N[Return dp[0][N-1]]
+
+    L -- "Yes" --> F
+    L -- "No" --> M{"Next i / len?"}
+
+    M -- "Yes" --> E
+    M -- "No" --> N["Return dp[0][N-1]"]
 ```
 
 ---
