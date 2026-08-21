@@ -10,9 +10,9 @@
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 ![Acceptance: 29.76%](https://img.shields.io/badge/Acceptance-29.76%25-green?style=for-the-badge)
 ![Submissions: 49K+](https://img.shields.io/badge/Submissions-49K%2B-blue?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Topics-Strings-blue?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Topics-Hash-blue?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Topics-Map-blue?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Topics:-Strings-blue?style=for-the-badge)
+![Topic](https://img.shields.io/badge/-Hash-blue?style=for-the-badge)
+![Topic](https://img.shields.io/badge/-Map-blue?style=for-the-badge)
 ![Company](https://img.shields.io/badge/Company-Directi-black?style=for-the-badge)
 
 > [!TIP]
