@@ -24,7 +24,7 @@
 
 ## 📌 Table of Contents
 
-- [🗺️ Navigation Guide](./NAVIGATION.md) (Detailed folder/file index)
+- [🗺️ Navigation Guide](./Navigation.md) (Detailed folder/file index)
 - [About](#-about)
 - [Repository Structure](#-repository-structure)
 - [Topics Covered](#-topics-covered)
