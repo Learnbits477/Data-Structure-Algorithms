@@ -1,4 +1,4 @@
-# [Party in Town](https://www.geeksforgeeks.org/problems/party-in-town3951/1)
+#229. [Party in Town](https://www.geeksforgeeks.org/problems/party-in-town3951/1)
 
 <div align="center">
 
