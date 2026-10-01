@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/Learnbits477/Data-Structure-Algorithms">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=298D46&center=true&vCenter=true&width=500&lines=400%2B+Problems+Solved;GeeksForGeeks+%26+LeetCode;Consistent+Daily+Grind;C%2B%2B17+Solutions" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=298D46&center=true&vCenter=true&width=500&lines=490%2B+Problems+Solved;GeeksForGeeks+%26+LeetCode;Consistent+Daily+Grind;C%2B%2B17+Solutions" alt="Typing Animation" />
   </a>
 </p>
 
-<p><em>A disciplined, day-by-day grind through competitive programming — 400+ problems solved across GeeksForGeeks and LeetCode.</em></p>
+<p><em>A disciplined, day-by-day grind through competitive programming — 490+ problems solved across GeeksForGeeks and LeetCode.</em></p>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> [![C++17](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-200%20Solved-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> [![LeetCode](https://img.shields.io/badge/LeetCode-200%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> [![Commits](https://img.shields.io/badge/Commits-400+%2B-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Learnbits477/Data-Structure-Algorithms/commits/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-247+%20Solved-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> [![LeetCode](https://img.shields.io/badge/LeetCode-245+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> [![Commits](https://img.shields.io/badge/Commits-490+%2B-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Learnbits477/Data-Structure-Algorithms/commits/main)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" height="30" /> [![Stars](https://img.shields.io/github/stars/Learnbits477/Data-Structure-Algorithms?style=for-the-badge&color=yellow)](https://github.com/Learnbits477/Data-Structure-Algorithms/stargazers)
 
 </div>
@@ -28,8 +28,8 @@
 - [About](#-about)
 - [Repository Structure](#-repository-structure)
 - [Topics Covered](#-topics-covered)
-- [GeeksForGeeks Problems](#-geeksforgeeks--198-problems)
-- [LeetCode Problems](#-leetcode--198-problems)
+- [GeeksForGeeks Problems](#-geeksforgeeks--days-01---247)
+- [LeetCode Problems](#-leetcode--days-01---247)
 - [Tech Stack](#-tech-stack)
 - [How to Run](#-how-to-run)
 - [Progress](#-progress)
@@ -63,12 +63,12 @@ Data-Structure-Algorithms/
 │   │   └── Main.cpp        ← Driver / test code
 │   ├── 002_Day/
 │   │   └── ...
-│   └── 200_Day/
+│   └── 247_Day/
 │
 ├── LeetCode/
 │   ├── 001_Day/
 │   │   └── ...
-│   └── 200_Day/
+│   └── 247_Day/
 │
 └── README.md
 ```
@@ -100,10 +100,10 @@ Data-Structure-Algorithms/
 
 ---
 
-## 🟢 GeeksForGeeks — 200 Problems
+## 🟢 GeeksForGeeks — Days 01 - 247
 
 <details>
-<summary><strong>Click to expand all 200 problems</strong></summary>
+<summary><strong>Click to expand all GeeksForGeeks problems (Days 01 - 247)</strong></summary>
 
 <br/>
 
@@ -309,15 +309,62 @@ Data-Structure-Algorithms/
 | 198 | [Longest Path in a Directed Acyclic Graph](./GeeksForGeeks/198_Day/Problem.md) |
 | 199 | [Tricky Subset Problem](./GeeksForGeeks/199_Day/Problem.md) |
 | 200 | [Numbers Without d as Digit](./GeeksForGeeks/200_Day/Problem.md) |
+| 201 | [Min Product Subset](./GeeksForGeeks/201_Day/Problem.md) |
+| 202 | [Snake and Ladder Problem](./GeeksForGeeks/202_Day/Problem.md) |
+| 203 | [Secret Cipher](./GeeksForGeeks/203_Day/Problem.md) |
+| 204 | [Triplets with Sum in Range](./GeeksForGeeks/204_Day/Problem.md) |
+| 205 | [Node and Ancestor Max Diff](./GeeksForGeeks/205_Day/Problem.md) |
+| 206 | [Transform String](./GeeksForGeeks/206_Day/Problem.md) |
+| 207 | [Number of Turns in Binary Tree](./GeeksForGeeks/207_Day/Problem.md) |
+| 208 | [Geek in a Maze](./GeeksForGeeks/208_Day/Problem.md) |
+| 209 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/209_Day/Problem.md) |
+| 210 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/210_Day/Problem.md) |
+| 211 | [Negative Weight Cycle](./GeeksForGeeks/211_Day/Problem.md) |
+| 212 | [Largest Rectangle with Column Swaps](./GeeksForGeeks/212_Day/Problem.md) |
+| 213 | [Minimum Cost Selection](./GeeksForGeeks/213_Day/Problem.md) |
+| 214 | [Count Subsequences Divisible by n](./GeeksForGeeks/214_Day/Problem.md) |
+| 215 | [Marks from Ranks](./GeeksForGeeks/215_Day/Problem.md) |
+| 216 | [Minimum Cost for n Characters](./GeeksForGeeks/216_Day/Problem.md) |
+| 217 | [Count Palindromic Strings with Constraints](./GeeksForGeeks/217_Day/Problem.md) |
+| 218 | [Unoccupied Computers](./GeeksForGeeks/218_Day/Problem.md) |
+| 219 | [Max Adjacent Diffs Sum with 1 Replacements](./GeeksForGeeks/219_Day/Problem.md) |
+| 220 | [Bird and Maximum Fruit Gathering](./GeeksForGeeks/220_Day/Problem.md) |
+| 221 | [Longest Subsequence with Adjacent Diff as 1](./GeeksForGeeks/221_Day/Problem.md) |
+| 222 | [Sum of Pairwise ANDs](./GeeksForGeeks/222_Day/Problem.md) |
+| 223 | [Minimum Elements Outside Subsequences](./GeeksForGeeks/223_Day/Problem.md) |
+| 224 | [Word in Grid - All Occurrences](./GeeksForGeeks/224_Day/Problem.md) |
+| 225 | [Max Digit Sum Number in 1 to n](./GeeksForGeeks/225_Day/Problem.md) |
+| 226 | [Pairs with Given GCD and LCM](./GeeksForGeeks/226_Day/Problem.md) |
+| 227 | [Values with Equal Array Remainders](./GeeksForGeeks/227_Day/Problem.md) |
+| 228 | [Max Product Subsequence of Size K](./GeeksForGeeks/228_Day/Problem.md) |
+| 229 | [Party in Town](./GeeksForGeeks/229_Day/Problem.md) |
+| 230 | [Find Shortest Safe Route in a Matrix](./GeeksForGeeks/230_Day/Problem.md) |
+| 231 | [Visit Leaves with Budget](./GeeksForGeeks/231_Day/Problem.md) |
+| 232 | [Dominant Pairs](./GeeksForGeeks/232_Day/Problem.md) |
+| 233 | [Min Edge Reversals for Path](./GeeksForGeeks/233_Day/Problem.md) |
+| 234 | [Minimum Absolute Difference In BST](./GeeksForGeeks/234_Day/Problem.md) |
+| 235 | [Min Cost To Make Two Strings Identical](./GeeksForGeeks/235_Day/Problem.md) |
+| 236 | [Largest Subsquare Surrounded by X](./GeeksForGeeks/236_Day/Problem.md) |
+| 237 | [Check Level Anagrams in Binary Trees](./GeeksForGeeks/237_Day/Problem.md) |
+| 238 | [Longest Matching in Dictionary with Removals](./GeeksForGeeks/238_Day/Problem.md) |
+| 239 | [Pyramid Array with Reduce Operations](./GeeksForGeeks/239_Day/Problem.md) |
+| 240 | [Maximum Height Disc Stack](./GeeksForGeeks/240_Day/Problem.md) |
+| 241 | [Box Stacking](./GeeksForGeeks/241_Day/Problem.md) |
+| 242 | [Minimum Cost Pizza Selection](./GeeksForGeeks/242_Day/Problem.md) |
+| 243 | [Longest Colored Path](./GeeksForGeeks/243_Day/Problem.md) |
+| 244 | [Range GCD Queries](./GeeksForGeeks/244_Day/Problem.md) |
+| 245 | [Steps by Knight](./GeeksForGeeks/245_Day/Problem.md) |
+| 246 | [Ways to Reach Origin](./GeeksForGeeks/246_Day/Problem.md) |
+| 247 | [Minimum Time to Finish Project](./GeeksForGeeks/247_Day/Problem.md) |
 
 </details>
 
 ---
 
-## 🟡 LeetCode — 200 Problems
+## 🟡 LeetCode — Days 01 - 247
 
 <details>
-<summary><strong>Click to expand all 200 problems</strong></summary>
+<summary><strong>Click to expand all LeetCode problems (Days 01 - 247)</strong></summary>
 
 <br/>
 
@@ -523,6 +570,53 @@ Data-Structure-Algorithms/
 | 198 | [Longest Substring of One Repeating Character](./LeetCode/198_Day/Problem.md) |
 | 199 | [Maximum Length Substring With Two Occurrences](./LeetCode/199_Day/Problem.md) |
 | 200 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/200_Day/Problem.md) |
+| 201 | [Stone Game IX](./LeetCode/201_Day/Problem.md) |
+| 202 | [Stone Game V](./LeetCode/202_Day/Problem.md) |
+| 203 | [Find the Largest Almost Missing Integer](./LeetCode/203_Day/Problem.md) |
+| 204 | [Cinema Seat Allocation](./LeetCode/204_Day/Problem.md) |
+| 205 | [Distribute Elements Into Two Arrays I](./LeetCode/205_Day/Problem.md) |
+| 206 | [Kth Smallest Amount With Single Denomination Combination](./LeetCode/206_Day/Problem.md) |
+| 207 | [Check Divisibility by Digit Sum and Product](./LeetCode/207_Day/Problem.md) |
+| 208 | [Sum Game](./LeetCode/208_Day/Problem.md) |
+| 209 | [Stone Game VIII](./LeetCode/209_Day/Problem.md) |
+| 210 | [Smallest Missing Multiple of K](./LeetCode/210_Day/Problem.md) |
+| 211 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/211_Day/Problem.md) |
+| 212 | [Lexicographically Smallest Permutation Greater Than Target](./LeetCode/212_Day/Problem.md) |
+| 213 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./LeetCode/213_Day/Problem.md) |
+| 214 | [Make Lexicographically Smallest Array by Swapping Elements](./LeetCode/214_Day/Problem.md) |
+| 215 | [Removing Minimum and Maximum From Array](./LeetCode/215_Day/Problem.md) |
+| 216 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/216_Day/Problem.md) |
+| 217 | [Minimum Moves to Clean the Classroom](./LeetCode/217_Day/Problem.md) |
+| 218 | [Construct Uniform Parity Array I](./LeetCode/218_Day/Problem.md) |
+| 219 | [Construct Uniform Parity Array II](./LeetCode/219_Day/Problem.md) |
+| 220 | [Smallest Stable Index I](./LeetCode/220_Day/Problem.md) |
+| 221 | [Smallest Stable Index II](./LeetCode/221_Day/Problem.md) |
+| 222 | [Distinct Subsequences](./LeetCode/222_Day/Problem.md) |
+| 223 | [Distinct Subsequences II](./LeetCode/223_Day/Problem.md) |
+| 224 | [Count Commas in Range](./LeetCode/224_Day/Problem.md) |
+| 225 | [Count Commas in Range II](./LeetCode/225_Day/Problem.md) |
+| 226 | [Count Nodes Equal to Average of Subtree](./LeetCode/226_Day/Problem.md) |
+| 227 | [Unique 3-Digit Even Numbers](./LeetCode/227_Day/Problem.md) |
+| 228 | [Maximum Score of Non-overlapping Intervals](./LeetCode/228_Day/Problem.md) |
+| 229 | [Image Overlap](./LeetCode/229_Day/Problem.md) |
+| 230 | [Rectangle Overlap](./LeetCode/230_Day/Problem.md) |
+| 231 | [Maximum Number of Non-overlapping Palindrome Substrings](./LeetCode/231_Day/Problem.md) |
+| 232 | [Number of Sets of K Non-Overlapping Line Segments](./LeetCode/232_Day/Problem.md) |
+| 233 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./LeetCode/233_Day/Problem.md) |
+| 234 | [Maximum Number of Non-Overlapping Substrings](./LeetCode/234_Day/Problem.md) |
+| 235 | [Circle and Rectangle Overlapping](./LeetCode/235_Day/Problem.md) |
+| 236 | [Reverse Degree of a String](./LeetCode/236_Day/Problem.md) |
+| 237 | [Find X Value of Array I](./LeetCode/237_Day/Problem.md) |
+| 238 | [Find X Value of Array II](./LeetCode/238_Day/Problem.md) |
+| 239 | [Minimum Operations to Reduce X to Zero](./LeetCode/239_Day/Problem.md) |
+| 240 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/240_Day/Problem.md) |
+| 241 | [Brace Expansion II](./LeetCode/241_Day/Problem.md) |
+| 242 | [Evaluate the Bracket Pairs of a String](./LeetCode/242_Day/Problem.md) |
+| 243 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/243_Day/Problem.md) |
+| 244 | [Maximum Nesting Depth of the Parentheses](./LeetCode/244_Day/Problem.md) |
+| 245 | [Check if There Is a Valid Parentheses String Path](./LeetCode/245_Day/Problem.md) |
+| 246 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./LeetCode/246_Day/Problem.md) |
+| 247 | [Valid Parentheses](./LeetCode/247_Day/Problem.md) |
 
 </details>
 
@@ -567,9 +661,9 @@ g++ -std=c++17 -O2 Main.cpp -o solution
 
 | Platform | Solved | Status |
 |----------|:------:|--------|
-| GeeksForGeeks | **200 / 200** | ✅ Active |
-| LeetCode | **200 / 200** | ✅ Active |
-| **Total** | **400 / 400** | 🔥 Ongoing |
+| GeeksForGeeks | **247+ / 247** | ✅ Active |
+| LeetCode | **247+ / 247** | ✅ Active |
+| **Total** | **494+ / 494** | 🔥 Ongoing |
 
 ---
 
