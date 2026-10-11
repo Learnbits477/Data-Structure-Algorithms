@@ -14,7 +14,7 @@ This directory acts as a granular navigation index for all solved files in the *
 ## 🟢 GeeksForGeeks Problems
 
 <details open>
-<summary><strong>Click to expand GeeksForGeeks Table (Days 01 - 247)</strong></summary>
+<summary><strong>Click to expand GeeksForGeeks Table (Days 01 - 257)</strong></summary>
 
 <br/>
 
@@ -267,6 +267,16 @@ This directory acts as a granular navigation index for all solved files in the *
 | 245 | **Steps by Knight** | [📄 Problem](./GeeksForGeeks/245_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/245_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/245_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/245_Day/Main.cpp) |
 | 246 | **Ways to Reach Origin** | [📄 Problem](./GeeksForGeeks/246_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/246_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/246_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/246_Day/Main.cpp) |
 | 247 | **Minimum Time to Finish Project** | [📄 Problem](./GeeksForGeeks/247_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/247_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/247_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/247_Day/Main.cpp) |
+| 248 | **Lexicographically Smallest Rotation** | [📄 Problem](./GeeksForGeeks/248_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/248_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/248_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/248_Day/Main.cpp) |
+| 249 | **Coils in a Matrix** | [📄 Problem](./GeeksForGeeks/249_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/249_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/249_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/249_Day/Main.cpp) |
+| 250 | **Perimeter of Shapes in Binary Matrix** | [📄 Problem](./GeeksForGeeks/250_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/250_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/250_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/250_Day/Main.cpp) |
+| 251 | **Your Social Network** | [📄 Problem](./GeeksForGeeks/251_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/251_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/251_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/251_Day/Main.cpp) |
+| 252 | **Longest Increasing Path in Matrix** | [📄 Problem](./GeeksForGeeks/252_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/252_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/252_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/252_Day/Main.cpp) |
+| 253 | **Max Path Sum Between Two Leaves** | [📄 Problem](./GeeksForGeeks/253_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/253_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/253_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/253_Day/Main.cpp) |
+| 254 | **Maximum Frequency with K Increments** | [📄 Problem](./GeeksForGeeks/254_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/254_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/254_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/254_Day/Main.cpp) |
+| 255 | **Minimum Operations to Reach n** | [📄 Problem](./GeeksForGeeks/255_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/255_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/255_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/255_Day/Main.cpp) |
+| 256 | **Balancing with Distinct Powers** | [📄 Problem](./GeeksForGeeks/256_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/256_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/256_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/256_Day/Main.cpp) |
+| 257 | **Sort Two Parts Sorted** | [📄 Problem](./GeeksForGeeks/257_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/257_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/257_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/257_Day/Main.cpp) |
 
 </details>
 
@@ -275,7 +285,7 @@ This directory acts as a granular navigation index for all solved files in the *
 ## 🟡 LeetCode Problems
 
 <details open>
-<summary><strong>Click to expand LeetCode Table (Days 01 - 247)</strong></summary>
+<summary><strong>Click to expand LeetCode Table (Days 01 - 257)</strong></summary>
 
 <br/>
 
@@ -528,6 +538,16 @@ This directory acts as a granular navigation index for all solved files in the *
 | 245 | **Check if There Is a Valid Parentheses String Path** | [📄 Problem](./LeetCode/245_Day/Problem.md) • [💡 Approach](./LeetCode/245_Day/Approach.md) • [🧩 Solution](./LeetCode/245_Day/Solution.cpp) • [🚀 Main](./LeetCode/245_Day/Main.cpp) |
 | 246 | **Maximum Nesting Depth of Two Valid Parentheses Strings** | [📄 Problem](./LeetCode/246_Day/Problem.md) • [💡 Approach](./LeetCode/246_Day/Approach.md) • [🧩 Solution](./LeetCode/246_Day/Solution.cpp) • [🚀 Main](./LeetCode/246_Day/Main.cpp) |
 | 247 | **Valid Parentheses** | [📄 Problem](./LeetCode/247_Day/Problem.md) • [💡 Approach](./LeetCode/247_Day/Approach.md) • [🧩 Solution](./LeetCode/247_Day/Solution.cpp) • [🚀 Main](./LeetCode/247_Day/Main.cpp) |
+| 248 | **Generate Parentheses** | [📄 Problem](./LeetCode/248_Day/Problem.md) • [💡 Approach](./LeetCode/248_Day/Approach.md) • [🧩 Solution](./LeetCode/248_Day/Solution.cpp) • [🚀 Main](./LeetCode/248_Day/Main.cpp) |
+| 249 | **Longest Valid Parentheses** | [📄 Problem](./LeetCode/249_Day/Problem.md) • [💡 Approach](./LeetCode/249_Day/Approach.md) • [🧩 Solution](./LeetCode/249_Day/Solution.cpp) • [🚀 Main](./LeetCode/249_Day/Main.cpp) |
+| 250 | **Valid Parenthesis String** | [📄 Problem](./LeetCode/250_Day/Problem.md) • [💡 Approach](./LeetCode/250_Day/Approach.md) • [🧩 Solution](./LeetCode/250_Day/Solution.cpp) • [🚀 Main](./LeetCode/250_Day/Main.cpp) |
+| 251 | **Score of Parentheses** | [📄 Problem](./LeetCode/251_Day/Problem.md) • [💡 Approach](./LeetCode/251_Day/Approach.md) • [🧩 Solution](./LeetCode/251_Day/Solution.cpp) • [🚀 Main](./LeetCode/251_Day/Main.cpp) |
+| 252 | **Minimum Add to Make Parentheses Valid** | [📄 Problem](./LeetCode/252_Day/Problem.md) • [💡 Approach](./LeetCode/252_Day/Approach.md) • [🧩 Solution](./LeetCode/252_Day/Solution.cpp) • [🚀 Main](./LeetCode/252_Day/Main.cpp) |
+| 253 | **Remove Invalid Parentheses** | [📄 Problem](./LeetCode/253_Day/Problem.md) • [💡 Approach](./LeetCode/253_Day/Approach.md) • [🧩 Solution](./LeetCode/253_Day/Solution.cpp) • [🚀 Main](./LeetCode/253_Day/Main.cpp) |
+| 254 | **Remove Outermost Parentheses** | [📄 Problem](./LeetCode/254_Day/Problem.md) • [💡 Approach](./LeetCode/254_Day/Approach.md) • [🧩 Solution](./LeetCode/254_Day/Solution.cpp) • [🚀 Main](./LeetCode/254_Day/Main.cpp) |
+| 255 | **Minimum Insertions to Balance a Parentheses String** | [📄 Problem](./LeetCode/255_Day/Problem.md) • [💡 Approach](./LeetCode/255_Day/Approach.md) • [🧩 Solution](./LeetCode/255_Day/Solution.cpp) • [🚀 Main](./LeetCode/255_Day/Main.cpp) |
+| 256 | **Minimum Sum of Squared Difference** | [📄 Problem](./LeetCode/256_Day/Problem.md) • [💡 Approach](./LeetCode/256_Day/Approach.md) • [🧩 Solution](./LeetCode/256_Day/Solution.cpp) • [🚀 Main](./LeetCode/256_Day/Main.cpp) |
+| 257 | **Sum of Squares of Special Elements** | [📄 Problem](./LeetCode/257_Day/Problem.md) • [💡 Approach](./LeetCode/257_Day/Approach.md) • [🧩 Solution](./LeetCode/257_Day/Solution.cpp) • [🚀 Main](./LeetCode/257_Day/Main.cpp) |
 
 </details>
 
