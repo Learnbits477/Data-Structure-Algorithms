@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/Learnbits477/Data-Structure-Algorithms">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=298D46&center=true&vCenter=true&width=515&lines=510%2B+Problems+Solved;GeeksForGeeks+%26+LeetCode;Consistent+Daily+Grind;C%2B%2B17+Solutions" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=298D46&center=true&vCenter=true&width=515&lines=520%2B+Problems+Solved;GeeksForGeeks+%26+LeetCode;Consistent+Daily+Grind;C%2B%2B17+Solutions" alt="Typing Animation" />
   </a>
 </p>
 
-<p><em>A disciplined, day-by-day grind through competitive programming — 510+ problems solved across GeeksForGeeks and LeetCode.</em></p>
+<p><em>A disciplined, day-by-day grind through competitive programming — 520+ problems solved across GeeksForGeeks and LeetCode.</em></p>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> [![C++17](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-258+%20Solved-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> [![LeetCode](https://img.shields.io/badge/LeetCode-257+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> [![Commits](https://img.shields.io/badge/Commits-510+%2B-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Learnbits477/Data-Structure-Algorithms/commits/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-260+%20Solved-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pankajkumqoi3)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> [![LeetCode](https://img.shields.io/badge/LeetCode-260+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PankajKumar477/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> [![Commits](https://img.shields.io/badge/Commits-520+%2B-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Learnbits477/Data-Structure-Algorithms/commits/main)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" height="30" /> [![Stars](https://img.shields.io/github/stars/Learnbits477/Data-Structure-Algorithms?style=for-the-badge&color=yellow)](https://github.com/Learnbits477/Data-Structure-Algorithms/stargazers)
 
 </div>
@@ -28,8 +28,8 @@
 - [About](#-about)
 - [Repository Structure](#-repository-structure)
 - [Topics Covered](#-topics-covered)
-- [GeeksForGeeks Problems](#-geeksforgeeks--days-01---257)
-- [LeetCode Problems](#-leetcode--days-01---257)
+- [GeeksForGeeks Problems](#-geeksforgeeks--days-01---260)
+- [LeetCode Problems](#-leetcode--days-01---260)
 - [Tech Stack](#-tech-stack)
 - [How to Run](#-how-to-run)
 - [Progress](#-progress)
@@ -63,12 +63,12 @@ Data-Structure-Algorithms/
 │   │   └── Main.cpp        ← Driver / test code
 │   ├── 002_Day/
 │   │   └── ...
-│   └── 257_Day/
+│   └── 260_Day/
 │
 ├── LeetCode/
 │   ├── 001_Day/
 │   │   └── ...
-│   └── 257_Day/
+│   └── 260_Day/
 │
 └── README.md
 ```
@@ -86,24 +86,24 @@ Data-Structure-Algorithms/
 
 | # | Topic | Key Techniques |
 |---|-------|---------------|
-| 1 | **Arrays & Strings** | Sliding Window, Two Pointers, Prefix Sum, Hashing |
-| 2 | **Binary & Bit Manipulation** | XOR, Bit Counting, Gray Code, Binary Strings |
-| 3 | **Trees** | BFS, DFS, BST, Top/Vertical View, LCA, Burning Tree |
-| 4 | **Graphs** | Topological Sort, Shortest Path, Articulation Points, Cycles |
-| 5 | **Dynamic Programming** | 0/1 Knapsack, Matrix DP, Stock DP, Partition DP |
-| 6 | **Greedy** | Interval Scheduling, Huffman Encoding, Activity Selection |
-| 7 | **Heaps / Priority Queue** | Min/Max Heap, Kth Largest, Median Stream |
-| 8 | **Stacks & Queues** | Monotonic Stack, Multi-Queue, Circular Queue |
-| 9 | **Binary Search** | Search on Answer, Rotated Arrays, Allocation Problems |
-| 010 | **Math & Number Theory** | GCD, Derangements, Atoi, Power Checks, Water Jug |
-| 011 | **Matrix** | Grid DP, Rotation, Path Problems, Submatrix Queries |
+| 01 | **Arrays & Strings** | Sliding Window, Two Pointers, Prefix Sum, Hashing |
+| 02 | **Binary & Bit Manipulation** | XOR, Bit Counting, Gray Code, Binary Strings |
+| 03 | **Trees** | BFS, DFS, BST, Top/Vertical View, LCA, Burning Tree |
+| 04 | **Graphs** | Topological Sort, Shortest Path, Articulation Points, Cycles |
+| 05 | **Dynamic Programming** | 0/1 Knapsack, Matrix DP, Stock DP, Partition DP |
+| 06 | **Greedy** | Interval Scheduling, Huffman Encoding, Activity Selection |
+| 07 | **Heaps / Priority Queue** | Min/Max Heap, Kth Largest, Median Stream |
+| 08 | **Stacks & Queues** | Monotonic Stack, Multi-Queue, Circular Queue |
+| 09 | **Binary Search** | Search on Answer, Rotated Arrays, Allocation Problems |
+| 10 | **Math & Number Theory** | GCD, Derangements, Atoi, Power Checks, Water Jug |
+| 11 | **Matrix** | Grid DP, Rotation, Path Problems, Submatrix Queries |
 
 ---
 
-## 🟢 GeeksForGeeks — Days 01 - 257
+## 🟢 GeeksForGeeks — Days 01 - 260
 
 <details>
-<summary><strong>Click to expand all GeeksForGeeks problems (Days 01 - 257)</strong></summary>
+<summary><strong>Click to expand all GeeksForGeeks problems (Days 01 - 260)</strong></summary>
 
 <br/>
 
@@ -366,15 +366,18 @@ Data-Structure-Algorithms/
 | 255 | [Minimum Operations to Reach n](./GeeksForGeeks/255_Day/Problem.md) |
 | 256 | [Balancing with Distinct Powers](./GeeksForGeeks/256_Day/Problem.md) |
 | 257 | [Sort Two Parts Sorted](./GeeksForGeeks/257_Day/Problem.md) |
+| 258 | [Minimum Squares with Full Cuts](./GeeksForGeeks/258_Day/Problem.md) |
+| 259 | [Adding Ones](./GeeksForGeeks/259_Day/Problem.md) |
+| 260 | [Roll Characters of String](./GeeksForGeeks/260_Day/Problem.md) |
 
 </details>
 
 ---
 
-## 🟡 LeetCode — Days 01 - 257
+## 🟡 LeetCode — Days 01 - 260
 
 <details>
-<summary><strong>Click to expand all LeetCode problems (Days 01 - 257)</strong></summary>
+<summary><strong>Click to expand all LeetCode problems (Days 01 - 260)</strong></summary>
 
 <br/>
 
@@ -637,6 +640,9 @@ Data-Structure-Algorithms/
 | 255 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/255_Day/Problem.md) |
 | 256 | [Minimum Sum of Squared Difference](./LeetCode/256_Day/Problem.md) |
 | 257 | [Sum of Squares of Special Elements](./LeetCode/257_Day/Problem.md) |
+| 258 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/258_Day/Problem.md) |
+| 259 | [Maximum Alternating Sum of Squares](./LeetCode/259_Day/Problem.md) |
+| 260 | [Maximize Sum of Squares of Digits](./LeetCode/260_Day/Problem.md) |
 
 </details>
 
@@ -681,9 +687,9 @@ g++ -std=c++17 -O2 Main.cpp -o solution
 
 | Platform | Solved | Status |
 |----------|:------:|--------|
-| GeeksForGeeks | **257+ / 257** | ✅ Active |
-| LeetCode | **257+ / 257** | ✅ Active |
-| **Total** | **514+ / 514** | 🔥 Ongoing |
+| GeeksForGeeks | **260+ / 260** | ✅ Active |
+| LeetCode | **260+ / 260** | ✅ Active |
+| **Total** | **520+ / 520** | 🔥 Ongoing |
 
 ---
 
