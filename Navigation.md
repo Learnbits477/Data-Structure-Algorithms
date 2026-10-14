@@ -14,7 +14,7 @@ This directory acts as a granular navigation index for all solved files in the *
 ## 🟢 GeeksForGeeks Problems
 
 <details open>
-<summary><strong>Click to expand GeeksForGeeks Table (Days 01 - 257)</strong></summary>
+<summary><strong>Click to expand GeeksForGeeks Table (Days 01 - 260)</strong></summary>
 
 <br/>
 
@@ -277,6 +277,9 @@ This directory acts as a granular navigation index for all solved files in the *
 | 255 | **Minimum Operations to Reach n** | [📄 Problem](./GeeksForGeeks/255_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/255_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/255_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/255_Day/Main.cpp) |
 | 256 | **Balancing with Distinct Powers** | [📄 Problem](./GeeksForGeeks/256_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/256_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/256_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/256_Day/Main.cpp) |
 | 257 | **Sort Two Parts Sorted** | [📄 Problem](./GeeksForGeeks/257_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/257_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/257_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/257_Day/Main.cpp) |
+| 258 | **Minimum Squares with Full Cuts** | [📄 Problem](./GeeksForGeeks/258_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/258_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/258_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/258_Day/Main.cpp) |
+| 259 | **Adding Ones** | [📄 Problem](./GeeksForGeeks/259_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/259_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/259_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/259_Day/Main.cpp) |
+| 260 | **Roll Characters of String** | [📄 Problem](./GeeksForGeeks/260_Day/Problem.md) • [💡 Approach](./GeeksForGeeks/260_Day/Approach.md) • [🧩 Solution](./GeeksForGeeks/260_Day/Solution.cpp) • [🚀 Main](./GeeksForGeeks/260_Day/Main.cpp) |
 
 </details>
 
@@ -285,7 +288,7 @@ This directory acts as a granular navigation index for all solved files in the *
 ## 🟡 LeetCode Problems
 
 <details open>
-<summary><strong>Click to expand LeetCode Table (Days 01 - 257)</strong></summary>
+<summary><strong>Click to expand LeetCode Table (Days 01 - 260)</strong></summary>
 
 <br/>
 
@@ -548,6 +551,9 @@ This directory acts as a granular navigation index for all solved files in the *
 | 255 | **Minimum Insertions to Balance a Parentheses String** | [📄 Problem](./LeetCode/255_Day/Problem.md) • [💡 Approach](./LeetCode/255_Day/Approach.md) • [🧩 Solution](./LeetCode/255_Day/Solution.cpp) • [🚀 Main](./LeetCode/255_Day/Main.cpp) |
 | 256 | **Minimum Sum of Squared Difference** | [📄 Problem](./LeetCode/256_Day/Problem.md) • [💡 Approach](./LeetCode/256_Day/Approach.md) • [🧩 Solution](./LeetCode/256_Day/Solution.cpp) • [🚀 Main](./LeetCode/256_Day/Main.cpp) |
 | 257 | **Sum of Squares of Special Elements** | [📄 Problem](./LeetCode/257_Day/Problem.md) • [💡 Approach](./LeetCode/257_Day/Approach.md) • [🧩 Solution](./LeetCode/257_Day/Solution.cpp) • [🚀 Main](./LeetCode/257_Day/Main.cpp) |
+| 258 | **Apply Operations on Array to Maximize Sum of Squares** | [📄 Problem](./LeetCode/258_Day/Problem.md) • [💡 Approach](./LeetCode/258_Day/Approach.md) • [🧩 Solution](./LeetCode/258_Day/Solution.cpp) • [🚀 Main](./LeetCode/258_Day/Main.cpp) |
+| 259 | **Maximum Alternating Sum of Squares** | [📄 Problem](./LeetCode/259_Day/Problem.md) • [💡 Approach](./LeetCode/259_Day/Approach.md) • [🧩 Solution](./LeetCode/259_Day/Solution.cpp) • [🚀 Main](./LeetCode/259_Day/Main.cpp) |
+| 260 | **Maximize Sum of Squares of Digits** | [📄 Problem](./LeetCode/260_Day/Problem.md) • [💡 Approach](./LeetCode/260_Day/Approach.md) • [🧩 Solution](./LeetCode/260_Day/Solution.cpp) • [🚀 Main](./LeetCode/260_Day/Main.cpp) |
 
 </details>
 
